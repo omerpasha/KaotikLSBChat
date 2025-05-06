@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable_lennaa.png.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable/lennaa.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/layout_dialog_hidden_message.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/layout/dialog_hidden_message.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable_placeholder.png.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable/placeholder.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/layout_activity_chat.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable_bg_message_sent.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable/bg_message_sent.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable_second.png.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable/second.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable_bg_message_received.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable/bg_message_received.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable_fourth.png.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable/fourth.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/layout_item_contact.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/layout/item_contact.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/layout_item_message_received.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/layout_activity_register.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.omer.stegochat.app-merged_res-41:/layout_dialog_hidden_message.xml.flat",
+        "source": "com.omer.stegochat.app-main-43:/layout/dialog_hidden_message.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/layout_item_message_sent.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable_message_background.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable/message_background.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable_icon.png.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable_third.png.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable/third.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/menu_main_menu.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/layout_activity_login.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable_lennarenkli.png.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable/lennarenkli.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/drawable_first.png.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/drawable/first.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-merged_res-41:/layout_item_message.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/layout/item_message.xml"
+    }
+]
