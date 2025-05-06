@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.omer.stegochat.app-mergeDebugResources-40:/layout/activity_register.xml",
+        "source": "com.omer.stegochat.app-main-43:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.omer.stegochat.app-mergeDebugResources-40:/layout/item_message.xml",
+        "source": "com.omer.stegochat.app-main-43:/layout/item_message.xml"
+    },
+    {
+        "merged": "com.omer.stegochat.app-mergeDebugResources-40:/layout/activity_login.xml",
+        "source": "com.omer.stegochat.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.omer.stegochat.app-mergeDebugResources-40:/layout/item_contact.xml",
+        "source": "com.omer.stegochat.app-main-43:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.omer.stegochat.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.omer.stegochat.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.omer.stegochat.app-mergeDebugResources-40:/layout/item_message_sent.xml",
+        "source": "com.omer.stegochat.app-main-43:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "com.omer.stegochat.app-mergeDebugResources-40:/layout/dialog_hidden_message.xml",
+        "source": "com.omer.stegochat.app-main-43:/layout/dialog_hidden_message.xml"
+    },
+    {
+        "merged": "com.omer.stegochat.app-mergeDebugResources-40:/layout/activity_chat.xml",
+        "source": "com.omer.stegochat.app-main-43:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.omer.stegochat.app-mergeDebugResources-40:/layout/item_message_received.xml",
+        "source": "com.omer.stegochat.app-main-43:/layout/item_message_received.xml"
+    }
+]
