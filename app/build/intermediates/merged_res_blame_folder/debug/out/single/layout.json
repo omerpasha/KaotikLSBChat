@@ -4,6 +4,10 @@
         "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/layout/activity_register.xml"
     },
     {
+        "merged": "com.omer.stegochat.app-mergeDebugResources-40:/layout/activity_login.xml",
+        "source": "com.omer.stegochat.app-main-43:/layout/activity_login.xml"
+    },
+    {
         "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-mergeDebugResources-40:/layout/activity_main.xml",
         "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/layout/activity_main.xml"
     },
@@ -26,10 +30,6 @@
     {
         "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-mergeDebugResources-40:/layout/activity_chat.xml",
         "source": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-main-43:/layout/activity_chat.xml"
-    },
-    {
-        "merged": "com.omer.stegochat.app-mergeDebugResources-40:/layout/dialog_hidden_message.xml",
-        "source": "com.omer.stegochat.app-main-43:/layout/dialog_hidden_message.xml"
     },
     {
         "merged": "/Users/omer/.gradle/daemon/8.2/com.omer.stegochat.app-mergeDebugResources-40:/layout/item_message_sent.xml",

@@ -51,6 +51,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Kayıt Ol"
+        android:background="@color/register_orange"
+        android:textColor="@android:color/white"
         android:layout_marginBottom="16dp"/>
 
     <Button

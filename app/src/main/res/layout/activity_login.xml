@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Giriş Yap"
+        android:text="StegoChat"
         android:textSize="24sp"
         android:textStyle="bold"
         android:layout_marginBottom="32dp"/>
@@ -42,6 +42,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Kayıt Ol"
-        android:backgroundTint="@android:color/holo_blue_light"/>
+        android:background="@color/register_orange"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="16dp"/>
 
 </LinearLayout> 

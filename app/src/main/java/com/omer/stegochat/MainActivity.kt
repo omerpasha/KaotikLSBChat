@@ -7,6 +7,7 @@ import android.view.Menu
 import android.view.MenuItem
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.omer.stegochat.databinding.ActivityMainBinding
@@ -30,6 +31,10 @@ class MainActivity : AppCompatActivity() {
         // Toolbar'ı ayarla
         setSupportActionBar(binding.toolbar)
         supportActionBar?.title = "Kişiler"
+
+        // Toolbar ve status bar rengini register_orange yap
+        binding.toolbar.setBackgroundColor(ContextCompat.getColor(this, R.color.register_orange))
+        window.statusBarColor = ContextCompat.getColor(this, R.color.register_orange)
 
         auth = FirebaseAuth.getInstance()
         database = FirebaseDatabase.getInstance()
