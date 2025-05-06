@@ -4,6 +4,7 @@
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
+    <color name="register_orange">#FF7F00</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
@@ -17,8 +18,8 @@
     <string name="project_id" translatable="false">stegochat-669c3</string>
     <style name="Theme.StegoChat" parent="Theme.AppCompat.Light.DarkActionBar">
         
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorPrimary">@color/register_orange</item>
+        <item name="colorPrimaryVariant">@color/register_orange</item>
         <item name="colorOnPrimary">@color/white</item>
         
         <item name="colorSecondary">@color/teal_200</item>

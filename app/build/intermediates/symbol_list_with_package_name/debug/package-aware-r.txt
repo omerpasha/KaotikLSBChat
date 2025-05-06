@@ -2102,6 +2102,7 @@ color primary_text_disabled_material_light
 color purple_200
 color purple_500
 color purple_700
+color register_orange
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark

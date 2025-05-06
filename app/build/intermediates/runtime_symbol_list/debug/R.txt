@@ -2101,6 +2101,7 @@ int color primary_text_disabled_material_light 0x7f050303
 int color purple_200 0x7f050304
 int color purple_500 0x7f050305
 int color purple_700 0x7f050306
+int color register_orange 0x7f050319
 int color ripple_material_dark 0x7f050307
 int color ripple_material_light 0x7f050308
 int color secondary_text_default_material_dark 0x7f050309

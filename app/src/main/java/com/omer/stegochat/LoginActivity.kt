@@ -7,6 +7,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
 import com.omer.stegochat.databinding.ActivityLoginBinding
+import androidx.core.content.ContextCompat
 
 class LoginActivity : AppCompatActivity() {
     private lateinit var binding: ActivityLoginBinding
@@ -16,6 +17,9 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityLoginBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        // Status bar rengini register_orange yap
+        window.statusBarColor = ContextCompat.getColor(this, R.color.register_orange)
 
         auth = FirebaseAuth.getInstance()
 

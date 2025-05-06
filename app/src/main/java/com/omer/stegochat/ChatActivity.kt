@@ -24,6 +24,7 @@ import java.io.File
 import java.io.FileOutputStream
 import java.io.InputStream
 import java.util.UUID
+import androidx.core.content.ContextCompat
 
 class ChatActivity : AppCompatActivity() {
     companion object {
@@ -96,6 +97,8 @@ class ChatActivity : AppCompatActivity() {
 
         // Mesajları yükle
         loadMessages()
+
+        window.statusBarColor = ContextCompat.getColor(this, R.color.register_orange)
     }
 
     private fun showImageOptionsDialog() {
