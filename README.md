@@ -1,5 +1,5 @@
-# Chat App with Kaotik LSB Steganography
+# Chat App with Chaotic LSB Steganography
 
-Bu uygulama, Kaotik LSB algoritmasının gerçek zamanlı bir haberleşme sistemi üzerinde kullanımını test etmek için geliştirilmiştir. Uygulama, temel algoritmanın mesajları gizleyip çözmesini sağlar.
+This application was developed to test the use of the Chaotic LSB algorithm in a real-time communication system. The application enables the embedding and extraction of messages using the core algorithm.
 
-Kod, Mobil platformlarda steganografi ve uygulaması adlı tez çalışmasının bir parçasıdır.
+The code is part of the thesis titled "Mobil platformlarda steganografi ve uygulaması."
