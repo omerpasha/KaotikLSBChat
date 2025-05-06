@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gcm_defaultSenderId" translatable="false">583481065141</string>
-    <string name="google_api_key" translatable="false">AIzaSyCECzTeeXPhqto7V4veIfWS3A_3Lp8DEps</string>
-    <string name="google_app_id" translatable="false">1:583481065141:android:bf4190515954f04f3ec8fc</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCECzTeeXPhqto7V4veIfWS3A_3Lp8DEps</string>
-    <string name="google_storage_bucket" translatable="false">stegochat-669c3.firebasestorage.app</string>
-    <string name="project_id" translatable="false">stegochat-669c3</string>
-</resources>

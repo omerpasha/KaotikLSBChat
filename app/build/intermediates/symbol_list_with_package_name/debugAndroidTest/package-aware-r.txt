@@ -1,3 +1,0 @@
-com.omer.stegochat.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
