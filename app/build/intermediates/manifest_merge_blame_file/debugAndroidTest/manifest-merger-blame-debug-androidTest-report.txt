@@ -3,24 +3,24 @@
 3    package="com.omer.stegochat.test" >
 4
 5    <uses-sdk
-5-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16912506222590755256.xml:5:5-74
+5-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14252698969501964507.xml:5:5-74
 6        android:minSdkVersion="24"
-6-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16912506222590755256.xml:5:15-41
+6-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14252698969501964507.xml:5:15-41
 7        android:targetSdkVersion="34" />
-7-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16912506222590755256.xml:5:42-71
+7-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14252698969501964507.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16912506222590755256.xml:11:5-15:68
+9-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14252698969501964507.xml:11:5-15:68
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16912506222590755256.xml:11:22-76
+10-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14252698969501964507.xml:11:22-76
 11        android:functionalTest="false"
-11-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16912506222590755256.xml:14:22-52
+11-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14252698969501964507.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16912506222590755256.xml:13:22-53
+12-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14252698969501964507.xml:13:22-53
 13        android:label="Tests for com.omer.stegochat"
-13-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16912506222590755256.xml:15:22-66
+13-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14252698969501964507.xml:15:22-66
 14        android:targetPackage="com.omer.stegochat" />
-14-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16912506222590755256.xml:12:22-64
+14-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14252698969501964507.xml:12:22-64
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.5.0] /Users/omer/.gradle/caches/transforms-3/9c44fc3a543549f94ba743fc15dbe6e3/transformed/core-1.5.0/AndroidManifest.xml:24:5-72
@@ -40,12 +40,12 @@
 22    </queries>
 23
 24    <application
-24-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16912506222590755256.xml:7:5-9:19
+24-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14252698969501964507.xml:7:5-9:19
 25        android:debuggable="true"
 26        android:extractNativeLibs="false" >
 27        <uses-library android:name="android.test.runner" />
-27-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16912506222590755256.xml:8:9-60
-27-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16912506222590755256.xml:8:23-57
+27-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14252698969501964507.xml:8:9-60
+27-->/Users/omer/Desktop/MyApplication14 düzgün çalışan 119 nisan/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest14252698969501964507.xml:8:23-57
 28
 29        <activity
 29-->[androidx.test:core:1.5.0] /Users/omer/.gradle/caches/transforms-3/9c44fc3a543549f94ba743fc15dbe6e3/transformed/core-1.5.0/AndroidManifest.xml:27:9-34:20
